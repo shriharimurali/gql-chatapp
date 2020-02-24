@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SJKhIAKYB",
+    "from": "system",
+    "text": "Welcome!"
+  },
+  {
+    "id": "ryEx9xbEU",
+    "from": "alice",
+    "text": "hjgj"
+  },
+  {
+    "id": "SyKwXNW4U",
+    "from": "alice",
+    "text": "Hello"
+  },
+  {
+    "id": "SJ-_XE-4L",
+    "from": "alice",
+    "text": "how are you ?"
+  },
+  {
+    "id": "BJJNqNW48",
+    "from": "alice",
+    "text": "rest"
+  },
+  {
+    "id": "SJL3h4W4U",
+    "from": "charlie",
+    "text": "hello"
+  },
+  {
+    "id": "Bk9nnNWEL",
+    "from": "alice",
+    "text": "hahaha"
+  },
+  {
+    "id": "ryICJrWNI",
+    "from": "alice",
+    "text": "awda"
+  }
+]
